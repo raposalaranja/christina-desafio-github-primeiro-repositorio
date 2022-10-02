@@ -1,0 +1,16 @@
+Link para dowload do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Revisão para o Desafio:
+Git bash
+1) $ git clone https://github.com/raposalaranja/christina-desafio-github-primeiro-repositorio.git
+2) $ cd christina-desafio-github-primeiro-repositorio/
+3) $ git status
+4) $ git ststus
+   Untracked files: "Anota\303\247\303\265es.txt"
+5) $ git add.
+6) $ git status
+     new file: "Anota\303\247\303\265es.txt"
+7) $ git commit -m "Inclusão das anotações do curso de Git/GitHub"
+8) $ git status
+9) git push origin main
